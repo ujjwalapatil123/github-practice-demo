@@ -1,1 +1,1 @@
-# github-practice-demo
+# This is GitHub Practice Demo file.
